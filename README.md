@@ -30,3 +30,6 @@ Glow Talk - chat and video call# GlowTalk - Short Video, Chat & Video Call App
 1. Clone the repository:
    ```bash
    git clone [https://github.com/zawzawsai252-hash/Glow-Talk-App.git](https://github.com/zawzawsai252-hash/Glow-Talk-App.git)
+npm install   # or flutter pub get
+npm start     # or flutter run
+---
